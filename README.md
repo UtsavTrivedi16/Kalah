@@ -3,7 +3,7 @@ Intellij Ultimate on Windows 10 64 bit
 
 ## Play Game
 cd .\play_game\
-java -jar <name>.jar
+java -jar \<name\>.jar
 
 ## Test Suite Contents   
 1)Extract contents in Kalah.zip  
