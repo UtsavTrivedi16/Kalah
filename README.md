@@ -1,5 +1,5 @@
 # OS and Tools
-Intellij Ultimate on Windows 10 64 bit
+Intellij Ultimate and JDK 1.7 on Windows 10 64 bit
 
 ## Play Game
 cd .\play_game\
