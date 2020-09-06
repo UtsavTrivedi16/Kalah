@@ -6,8 +6,7 @@ cd .\play_game\
 java -jar \<name\>.jar
 
 ## Test Suite Contents   
-1)Extract contents in Kalah.zip  
-2)Open a new project in Intellij and copy over contents inside kalah_code
+Open a new project in Intellij and copy over contents inside kalah_code
 
 ## Vertical Tests
 cd .\kalah_code\
